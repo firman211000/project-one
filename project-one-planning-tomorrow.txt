@@ -1,6 +1,8 @@
 Planning tomorrow
 
 -learning github continue
-*github and git
 -learning python3 continue
+  *start with fundamental first 
+    ^data type
+    ^variable
 -running on evening
