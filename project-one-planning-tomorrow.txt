@@ -1,6 +1,8 @@
 Planning tomorrow
 
 -learning github continue
+*github and git
+  try and error git or github
 -learning python3 continue
   *start with fundamental first 
     ^data type
